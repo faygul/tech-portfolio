@@ -1,7 +1,13 @@
 ---
-id: projects
-title: Projects
+id: X | X2
+title: Y | Y2
 ---
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+| New         | New2        |
 
 Embed any notable projects in this page.
 
